@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there! My Name is Prateek  
+## 📊 Power BI Developer | Data Analyst | Excel Specialist  
 
-<!--
-**PrateekGupta0807/PrateekGupta0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in transforming raw data into actionable insights using **Power BI, DAX, and SQL**. With experience in **data visualization, reporting, and automation**, I help businesses make data-driven decisions.  
 
-Here are some ideas to get you started:
+### 🔹 Skills & Expertise  
+- **Power BI** – Dashboard & Report Development, DAX, Data Modeling  
+- **Data Analysis** – SQL, Data Cleaning, ETL, Insights Generation  
+- **Excel** – Pivot Tables, Advanced Formulas, Power Query  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- Passionate about **data-driven decision-making** and **business intelligence**.  
+- Always exploring new ways to optimize and automate data processes.  
+- Eager to collaborate on projects involving **data visualization and analytics**.  
+
+![Data GIF](https://github.com/PrateekGupta0807/PrateekGupta0807/blob/main/Analysis.gif)
+
+### 📩 Let's Connect!  
+Feel free to reach out for collaborations, discussions, or just to say hi!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/prateekgupta0807/)  |  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/PrateekGupta0807)  |  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?logo=web)](https://your-portfolio-link.com)   

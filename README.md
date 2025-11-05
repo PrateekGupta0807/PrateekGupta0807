@@ -12,15 +12,15 @@ I currently work as an **Assistant Manager – Data Analyst (Flight Operations)*
 **Business Intelligence & Reporting**
 - Interactive **Power BI Dashboards**
 - **DAX** & Data Modeling
-- Performance & KPI Tracking
+- Performance & **KPI Tracking**
 - Operational Insights & Reporting
 
 **Data & Workflow Automation**
-- **Power Automate**, SharePoint, Microsoft Forms
+- Power Automate, SharePoint, Microsoft Forms
 - Process Optimization & Standardization
 
 **Data Analysis & Tools**
-- **Excel (Advanced)**, Power Query, PivotTables
+- Excel (Advanced), Power Query, PivotTables
 - Data Cleaning, Trend Analysis, Variance & Root Cause Study
 
 ---
@@ -45,6 +45,7 @@ I currently work as an **Assistant Manager – Data Analyst (Flight Operations)*
 ### 💡 **What I Believe**
 Data should not just **inform** — it should **enable decisions**.  
 I focus on building systems that are:
+
 ✅ Scalable  
 ✅ Accurate  
 ✅ Easy to use  

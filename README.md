@@ -51,6 +51,7 @@ I focus on building systems that are:
 ✅ Easy to use  
 ✅ Operationally meaningful  
 
+
 ---
 
 ### 🌐 **Let’s Connect**
@@ -63,3 +64,8 @@ I focus on building systems that are:
 
 ### ✨ Fun Fact
 When I'm not analyzing data, you’ll likely find me **exploring aviation insights**, improving workflows, or sipping coffee while designing DAX logic 😄
+
+
+
+
+![Data GIF](https://github.com/PrateekGupta0807/PrateekGupta0807/blob/main/Analysis.gif)
